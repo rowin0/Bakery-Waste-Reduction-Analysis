@@ -8,9 +8,13 @@ When products do not sell, they are marked down in the last day of shelf life. T
 
 The analysis will examine product sales patterns, inventory levels, markdown activity, shelf life, and waste in order to identify
 *different product behaviors, 
-*such as fast-moving products, 
-*slow-moving products, 
+
+*such as fast-moving products,
+
+*slow-moving products,
+
 *markdown-dependent products, 
+
 *products with recurring overstock.
 
 ## Dataset Creation and Preparation
