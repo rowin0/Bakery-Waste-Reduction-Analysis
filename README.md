@@ -7,9 +7,7 @@ When products do not sell, they are marked down in the last day of shelf life. T
 ##### Excess Inventory → Slow Sales → Markdown → Replenishment → More Inventory → Additional Markdown → Waste
 
 The analysis will examine product sales patterns, inventory levels, markdown activity, shelf life, and waste in order to identify
-* different product behaviors, 
-* such as fast-moving products,
-* slow-moving products,
+* different product behaviors such as fast-moving products or slow-moving products,
 * markdown-dependent products, 
 * products with recurring overstock.
 
@@ -23,3 +21,5 @@ The most challenging part was modeling Starting Inventory, because it needed to 
 ##### Starting Inventory + Deliveries − Sold − Markdown Sold − Waste = Ending Inventory
 
 This approach created a connected inventory flow and allowed the 1,000-row dataset to be generated and updated automatically rather than through manual entry.
+<img width="1912" height="983" alt="image" src="https://github.com/user-attachments/assets/78330650-a22e-42c7-82cb-59af21eea8cb" />
+
