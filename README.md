@@ -6,6 +6,13 @@ When products do not sell, they are marked down in the last day of shelf life. T
 
 ##### Excess Inventory → Slow Sales → Markdown → Replenishment → More Inventory → Additional Markdown → Waste
 
+The analysis will examine product sales patterns, inventory levels, markdown activity, shelf life, and waste in order to identify
+*different product behaviors, 
+*such as fast-moving products, 
+*slow-moving products, 
+*markdown-dependent products, 
+*products with recurring overstock.
+
 ## Dataset Creation and Preparation
 I started with a reference table containing 45 bakery products, including SKU, product name, price, markdown price, and shelf life. Using Excel, I created a 1,000-row synthetic dataset without manual data entry.
 
