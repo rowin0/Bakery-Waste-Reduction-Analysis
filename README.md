@@ -23,3 +23,6 @@ The most challenging part was modeling Starting Inventory, because it needed to 
 This approach created a connected inventory flow and allowed the 1,000-row dataset to be generated and updated automatically rather than through manual entry.
 <img width="1912" height="983" alt="image" src="https://github.com/user-attachments/assets/78330650-a22e-42c7-82cb-59af21eea8cb" />
 
+## Exploratory Data Analysis
+
+
